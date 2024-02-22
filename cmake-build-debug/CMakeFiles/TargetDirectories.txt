@@ -1,0 +1,3 @@
+/Users/lorenzorocca/CLionProjects/StaMenu/cmake-build-debug/CMakeFiles/StaMenu.dir
+/Users/lorenzorocca/CLionProjects/StaMenu/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lorenzorocca/CLionProjects/StaMenu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
